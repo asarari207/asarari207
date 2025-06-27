@@ -24,8 +24,8 @@ I'm an enthusiastic software developer with over 3 years of hands-on experience 
 **Modern University College** — *Ramallah, PS*  
 📅 *Sep 2024 – May 2025*  
 - Development of the college's student portal, admissions system, and website using **.NET**, **Angular**, and **MongoDB**  
-- Improved portal responsiveness and usability, increasing usage by 25%  
-- Optimized site performance, cutting page load time by 40%
+- Improved portal responsiveness and usability,  
+- Optimized site performance.
 
 ### 🛰️ Software Developer  
 **Jawwal** — *Ramallah, PS*  
@@ -43,7 +43,7 @@ I'm an enthusiastic software developer with over 3 years of hands-on experience 
 ### 📡 Network Operations Center (NOC)  
 **Jawwal** — *Ramallah, PS*  
 📅 *Aug 2020 – Dec 2022*  
-- Monitored network and resolved client issues, improving response time by 20%  
+- Monitored network and resolved client issues,
 - Created custom scripts for real-time alerts to boost cross-team visibility
 
 ---
