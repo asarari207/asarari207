@@ -23,7 +23,7 @@ I'm an enthusiastic software developer with over 3 years of hands-on experience 
 ### 💻 Software Developer  
 **Modern University College** — *Ramallah, PS*  
 📅 *Sep 2024 – May 2025*  
-- Led development of the college's student portal, admissions system, and website using **.NET**, **Angular**, and **MongoDB**  
+- Development of the college's student portal, admissions system, and website using **.NET**, **Angular**, and **MongoDB**  
 - Improved portal responsiveness and usability, increasing usage by 25%  
 - Optimized site performance, cutting page load time by 40%
 
