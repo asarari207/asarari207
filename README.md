@@ -94,7 +94,7 @@ I'm an enthusiastic software developer with over 3 years of hands-on experience 
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/abd-al-qader-sarari-a41538188/)
 - 📬 [Email](mailto:pss.abedq@outlook.com)
-- 💻 GitHub: [github.com/YOUR_USERNAME](https://github.com/asarari207)
+- 💻 GitHub: [github.com/asarari207](https://github.com/asarari207)
 
 ---
 
