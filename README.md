@@ -10,7 +10,7 @@
 
 ## 🚀 Summary
 
-I'm an enthusiastic software developer with over 3 years of hands-on experience building, deploying, and maintaining full-stack applications across web and cloud environments. I specialize in .NET, Node.js, Angular, and React—combined with strong backend/database skills in SQL and NoSQL. I’m passionate about DevOps automation, containerization, and building high-performance systems that solve real-world problems.
+I'm an enthusiastic software developer with over 5 years of hands-on experience building, deploying, and maintaining full-stack applications across web and cloud environments. I specialize in .NET, Node.js, Angular, and React—combined with strong backend/database skills in SQL and NoSQL. I’m passionate about DevOps automation, containerization, and building high-performance systems that solve real-world problems.
 
 ---
 
