@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdelqader Sarari
 
 🎯 **Software Developer | Full Stack Engineer | DevOps Enthusiast**  
-📍 Ramallah, Palestine  
+📍 Granada, Spain  
 📧 [pss.abedq@outlook.com](mailto:pss.abedq@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abd-al-qader-sarari-a41538188/)  
 📱 +970 59 416 7428  
