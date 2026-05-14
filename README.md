@@ -17,7 +17,7 @@ I'm an enthusiastic software developer with over 5 years of hands-on experience 
 ## 💼 Experience
 
 ### 💻 Freelancer Software Developer
-**BinaryTreeIT LTD** — *Granada, Spain*  
+**BinaryTreeIT LTD** — *Remote (London, UK)*  
 📅 *Dec 2025 – Present* 
 
 ### 💻 Application Developer 
