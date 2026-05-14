@@ -16,9 +16,13 @@ I'm an enthusiastic software developer with over 5 years of hands-on experience 
 
 ## 💼 Experience
 
+### 💻 Freelancer Software Developer
+**BinaryTreeIT LTD** — *Granada, Spain*  
+📅 *Dec 2025 – Present* 
+
 ### 💻 Application Developer 
 **Spinel Tech** — *Ramallah, PS*  
-📅 *May 2025 – Present*  
+📅 *May 2025 – Dec 2025*
 
 ### 💻 Software Developer  
 **Modern University College** — *Ramallah, PS*  
